@@ -1,4 +1,4 @@
-print("***Welcome to my enctypt machine***")
+print("***Welcome to my encrypt machine***")
 encrypted_text = ""
 decoded_text = ""
 
